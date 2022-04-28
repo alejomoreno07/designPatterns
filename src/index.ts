@@ -13,3 +13,5 @@ const user:User = new UserBuilder("Alejandro")
 console.log(user);
 
 //-----------------------------------------------------------------//
+
+console.log("fin");
